@@ -58,4 +58,4 @@ Designed to optimize traffic flow using intelligent decision-making.
   <img src="https://img.icons8.com/color/96/000000/google-colab.png" width="20" /> 
   <img src="https://img.icons8.com/color/96/000000/replit.png" width="20" /> 
   <img src="https://img.icons8.com/color/96/000000/microsoft.png" width="20" />
-</p>
+<p/>

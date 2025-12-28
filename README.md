@@ -4,7 +4,7 @@ Yeh regular markdown content hai.
 
 <!-- Yahan HTML file ka content aayega -->
 <div>
-  <iframe src="./index.html" width="100%" height="500px"></iframe>
+  <iframe src="index.html" width="100%" height="500px"></iframe>
 </div>
 
 Ya fir direct HTML:

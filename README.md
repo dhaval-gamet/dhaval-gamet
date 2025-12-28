@@ -1,42 +1,68 @@
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" /> Hi, I'm Dhaval
-</h3>
+<h1 align="center">
+  <img src="https://img.icons8.com/color/96/000000/hello.png" width="30" /> Hi, I'm Dhaval
+</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocket/rocket-original.svg" width="20" /> Solo Developer | Tech Explorer | Builder by Habit
+  <img src="https://img.icons8.com/color/96/000000/rocket.png" width="20" /> <strong>Solo Developer</strong> | 
+  <img src="https://img.icons8.com/color/96/000000/compass.png" width="20" /> <strong>Tech Explorer</strong> | 
+  <img src="https://img.icons8.com/color/96/000000/under-construction.png" width="20" /> <strong>Builder by Habit</strong>
 </p>
 
-I'm a self-taught developer from Gujarat with a strong interest in building practical, scalable tech products. I come from an arts background but transitioned into programming through hands-on learning and real projects.
+<p align="center">
+  I'm a self-taught developer from Gujarat with a strong interest in building practical, scalable tech products. 
+  I come from an arts background but transitioned into programming through hands-on learning and real projects.
+</p>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brain/brain-original.svg" width="24" /> Skills & Technologies
-- **Languages:** 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" /> Python,
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" /> JavaScript,
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" /> HTML,
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18" /> CSS
-- **Currently Learning:** 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="18" /> Rust
-- **Development Style:** Solo development, product-focused, problem-solving mindset
-- **Workflow:** Mobile-first coding using Termux, Pydroid 3, Acode Editor, Replit, and Google Colab
+---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tools/tools-original.svg" width="24" /> Projects
-### **Vedra BI**
+## <img src="https://img.icons8.com/color/96/000000/brain.png" width="25" /> Skills & Technologies
+
+- <img src="https://img.icons8.com/color/96/000000/python.png" width="20" /> **Languages:** Python, JavaScript, HTML, CSS
+- <img src="https://img.icons8.com/color/96/000000/rust-programming-language.png" width="20" /> **Currently Learning:** Rust
+- <img src="https://img.icons8.com/color/96/000000/developer.png" width="20" /> **Development Style:** Solo development, product-focused, problem-solving mindset
+- <img src="https://img.icons8.com/color/96/000000/workflow.png" width="20" /> **Workflow:** Mobile-first coding using Termux, Pydroid 3, Acode Editor, Replit, and Google Colab
+
+---
+
+## <img src="https://img.icons8.com/color/96/000000/toolbox.png" width="25" /> Projects
+
+### <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="25" /> **Vedra BI**
 A data visualization and business intelligence tool with:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="16" /> AI-powered insights
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/settings/settings-original.svg" width="16" /> Full user customization
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="16" /> Support for very large datasets (GB-scale)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/performance/performance-original.svg" width="16" /> Focus on affordability and performance
-*(Actively developed for ~9 months, nearing completion)*
+- <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="18" /> AI-powered insights
+- <img src="https://img.icons8.com/color/96/000000/settings.png" width="18" /> Full user customization
+- <img src="https://img.icons8.com/color/96/000000/database.png" width="18" /> Support for very large datasets (GB-scale)
+- <img src="https://img.icons8.com/color/96/000000/performance.png" width="18" /> Focus on affordability and performance
 
-### **AI-based Traffic Control System**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traffic/traffic-original.svg" width="18" /> Designed to optimize traffic flow using intelligent decision-making.
+> <img src="https://img.icons8.com/color/96/000000/clock.png" width="16" /> *Actively developed for ~9 months, nearing completion*
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/target/target-original.svg" width="24" /> Interests
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chart/chart-original.svg" width="16" /> Data Visualization
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ai/ai-original.svg" width="16" /> Artificial Intelligence
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/architecture/architecture-original.svg" width="16" /> System Design
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/producthunt/producthunt-original.svg" width="16" /> Building real-world usable products
+### <img src="https://img.icons8.com/color/96/000000/traffic-light.png" width="25" /> **AI-based Traffic Control System**
+Designed to optimize traffic flow using intelligent decision-making.
+
+---
+
+## <img src="https://img.icons8.com/color/96/000000/target.png" width="25" /> Interests
+
+- <img src="https://img.icons8.com/color/96/000000/data-line-chart.png" width="20" /> Data Visualization
+- <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="20" /> Artificial Intelligence
+- <img src="https://img.icons8.com/color/96/000000/network.png" width="20" /> System Design
+- <img src="https://img.icons8.com/color/96/000000/product.png" width="20" /> Building real-world usable products
+
+---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/learning/learning-original.svg" width="20" /> <i>Always learning, always building.</i>
+  <img src="https://img.icons8.com/color/96/000000/learning.png" width="20" /> <strong>Always learning, always building.</strong>
+  <img src="https://img.icons8.com/color/96/000000/construction.png" width="20" />
 </p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/google-colab.png" width="20" /> 
+  <img src="https://img.icons8.com/color/96/000000/replit.png" width="20" /> 
+  <img src="https://img.icons8.com/color/96/000000/terminal.png" width="20" />
+</p>
+
+<style>
+  img[src*="icons8"] {
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+</style>

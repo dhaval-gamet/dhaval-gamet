@@ -26,7 +26,7 @@
 
 ## <img src="https://img.icons8.com/color/96/000000/toolbox.png" width="25" /> Projects
 
-### <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="25" /> **Vedra BI**
+### <img src="https://img.icons8.com/color/96/000000/visualizations.png" width="25" /> **Vedra BI**
 A data visualization and business intelligence tool with:
 - <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="18" /> AI-powered insights
 - <img src="https://img.icons8.com/color/96/000000/settings.png" width="18" /> Full user customization

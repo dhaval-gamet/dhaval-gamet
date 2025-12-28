@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/color/96/000000/hi.png" width="30" /> Hi, I'm Dhaval
+  <img src="https://img.icons8.com/color/96/000000/welcome.png" width="30" /> Hi, I'm Dhaval
 </h1>
 
 <p align="center">
@@ -57,7 +57,7 @@ Designed to optimize traffic flow using intelligent decision-making.
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/google-colab.png" width="20" /> 
   <img src="https://img.icons8.com/color/96/000000/replit.png" width="20" /> 
-  <img src="https://img.icons8.com/color/96/000000/render.png" width="20" />
+  <img src="https://img.icons8.com/color/96/000000/microsoft.png" width="20" />
 </p>
 
 <style>

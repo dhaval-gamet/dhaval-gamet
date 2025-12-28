@@ -47,7 +47,7 @@ permalink: /
     </div>
     
     <div style="margin-top: 40px;">
-        <iframe src="index.html" 
+        <iframe src="portfolio.html" 
                 width="90%" 
                 height="400px" 
                 style="border: none; border-radius: 15px; margin: 20px 0;"

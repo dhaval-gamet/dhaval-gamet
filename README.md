@@ -26,7 +26,7 @@
 
 ## <img src="https://img.icons8.com/color/96/000000/toolbox.png" width="25" /> Projects
 
-### <img src="https://img.icons8.com/color/96/000000/visualizations.png" width="25" /> **Vedra BI**
+### <img src="https://img.icons8.com/color/96/000000/chart.png" width="25" /> **Vedra BI**
 A data visualization and business intelligence tool with:
 - <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="18" /> AI-powered insights
 - <img src="https://img.icons8.com/color/96/000000/settings.png" width="18" /> Full user customization
@@ -42,7 +42,7 @@ Designed to optimize traffic flow using intelligent decision-making.
 
 ## <img src="https://img.icons8.com/color/96/000000/target.png" width="25" /> Interests
 
-- <img src="https://img.icons8.com/color/96/000000/data-line-chart.png" width="20" /> Data Visualization
+- <img src="https://img.icons8.com/color/96/000000/chart.png" width="20" /> Data Visualization
 - <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="20" /> Artificial Intelligence
 - <img src="https://img.icons8.com/color/96/000000/network.png" width="20" /> System Design
 - <img src="https://img.icons8.com/color/96/000000/product.png" width="20" /> Building real-world usable products
